@@ -18,6 +18,7 @@ function createGalleryItemMarkup(gallery) {
     .join('')
 }
 
+
 new SimpleLightbox('.gallery a', {
   captionDelay: 250,
 })
